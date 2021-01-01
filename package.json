@@ -1,21 +1,14 @@
 {
   "name": "discordjs-colors",
-  "version": "1.2.2",
+  "version": "2.0.0",
   "description": "A set of colors corresponding to Discord.JS's ColorResolvable.",
-  "main": "lib/index.js",
-  "typings": "typings/index.d.ts",
-  "bin": {
-    "discordjs-colors": "bin/discordjs-colors.js"
-  },
+  "main": "index.js",
+  "typings": "index.d.ts",
   "bugs": {
-    "url": "https://github.com/hiimjustin000/discordjs-colors/issues"
+    "url": "https://github.com/kowasaur/discordjs-colors/issues"
   },
-  "scripts": {
-    "start": "node ."
-  },
-  "repository": "github:hiimjustin000/discordjs-colors",
+  "repository": "github:kowasaur/discordjs-colors",
   "keywords": [
-    "cli",
     "color",
     "colour",
     "colors",
@@ -26,9 +19,6 @@
     "discordjs-colors",
     "discord.js-colors"
   ],
-  "author": "hiimjustin000",
-  "license": "Apache 2.0",
-  "dependencies": {
-    "chalk": "^3.0.0"
-  }
+  "author": "kowasaur",
+  "license": "Apache 2.0"
 }

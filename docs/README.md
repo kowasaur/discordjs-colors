@@ -36,7 +36,7 @@ Or you can run it:
 discordjs-colors
 ```
 
-You can find the color list [here](docs/COLORS.md).
+You can find the color list [here](COLORS.md).
 
 ## [Github](https://github.com/hiimjustin000/discordjs-colors)
 ## [NPM Package](https://www.npmjs.com/package/discordjs-colors)

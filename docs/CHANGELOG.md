@@ -1,5 +1,10 @@
 # The Changelog
 
+## 2.0.0
+Made colors strings instead of functions except for randomColor.\
+Removed what I thought was unnecessary.\
+Organised file structure to my liking.
+
 ## 1.2.2
 Fixed a bug where the methods wouldn't be defined.
 
